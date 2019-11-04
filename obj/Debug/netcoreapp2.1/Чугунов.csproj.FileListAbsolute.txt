@@ -1,0 +1,11 @@
+C:\Users\бьюбт\source\repos\Чугунов\bin\Debug\netcoreapp2.1\Чугунов.deps.json
+C:\Users\бьюбт\source\repos\Чугунов\bin\Debug\netcoreapp2.1\Чугунов.runtimeconfig.json
+C:\Users\бьюбт\source\repos\Чугунов\bin\Debug\netcoreapp2.1\Чугунов.runtimeconfig.dev.json
+C:\Users\бьюбт\source\repos\Чугунов\bin\Debug\netcoreapp2.1\Чугунов.dll
+C:\Users\бьюбт\source\repos\Чугунов\bin\Debug\netcoreapp2.1\Чугунов.pdb
+C:\Users\бьюбт\source\repos\Чугунов\obj\Debug\netcoreapp2.1\Чугунов.csprojAssemblyReference.cache
+C:\Users\бьюбт\source\repos\Чугунов\obj\Debug\netcoreapp2.1\Чугунов.csproj.CoreCompileInputs.cache
+C:\Users\бьюбт\source\repos\Чугунов\obj\Debug\netcoreapp2.1\Чугунов.AssemblyInfoInputs.cache
+C:\Users\бьюбт\source\repos\Чугунов\obj\Debug\netcoreapp2.1\Чугунов.AssemblyInfo.cs
+C:\Users\бьюбт\source\repos\Чугунов\obj\Debug\netcoreapp2.1\Чугунов.dll
+C:\Users\бьюбт\source\repos\Чугунов\obj\Debug\netcoreapp2.1\Чугунов.pdb
